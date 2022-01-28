@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Asbjornhh/Mod1del2/myquote"
+	"test/myquote"
 )
 
 func main() {
