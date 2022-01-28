@@ -1,13 +1,10 @@
 package main
 
-import "test/myquote"
-
 import (
-	"github.com/Asbjornhh/Mod1del2"
+	"github.com/Asbjornhh/Mod1del2/myquote"
 )
 
-
-func ()  {
+func main() {
 
 	myquote.Myquote()
 
